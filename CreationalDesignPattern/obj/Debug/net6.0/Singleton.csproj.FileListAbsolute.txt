@@ -1,0 +1,15 @@
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.csproj.AssemblyReference.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.AssemblyInfoInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.AssemblyInfo.cs
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\bin\Debug\net6.0\Singleton.exe
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\bin\Debug\net6.0\Singleton.deps.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\bin\Debug\net6.0\Singleton.runtimeconfig.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\bin\Debug\net6.0\Singleton.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\bin\Debug\net6.0\Singleton.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\refint\Singleton.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\Singleton.genruntimeconfig.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\CreationalDesignPattern\obj\Debug\net6.0\ref\Singleton.dll

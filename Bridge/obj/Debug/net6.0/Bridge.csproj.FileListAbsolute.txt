@@ -1,0 +1,15 @@
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\bin\Debug\net6.0\Bridge.exe
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\bin\Debug\net6.0\Bridge.deps.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\bin\Debug\net6.0\Bridge.runtimeconfig.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\bin\Debug\net6.0\Bridge.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\bin\Debug\net6.0\Bridge.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.csproj.AssemblyReference.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfoInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.AssemblyInfo.cs
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\refint\Bridge.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\Bridge.genruntimeconfig.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Bridge\obj\Debug\net6.0\ref\Bridge.dll

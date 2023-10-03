@@ -1,0 +1,15 @@
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\bin\Debug\net6.0\Facade.exe
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\bin\Debug\net6.0\Facade.deps.json
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\bin\Debug\net6.0\Facade.runtimeconfig.json
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\bin\Debug\net6.0\Facade.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\bin\Debug\net6.0\Facade.pdb
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.csproj.AssemblyReference.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\refint\Facade.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.pdb
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\Facade.genruntimeconfig.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Decorator\obj\Debug\net6.0\ref\Facade.dll

@@ -1,0 +1,15 @@
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\bin\Debug\net6.0\Proxy.exe
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\bin\Debug\net6.0\Proxy.deps.json
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\bin\Debug\net6.0\Proxy.runtimeconfig.json
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\bin\Debug\net6.0\Proxy.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\bin\Debug\net6.0\Proxy.pdb
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.csproj.AssemblyReference.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfoInputs.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.AssemblyInfo.cs
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\refint\Proxy.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.pdb
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\Proxy.genruntimeconfig.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Proxy\obj\Debug\net6.0\ref\Proxy.dll

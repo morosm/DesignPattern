@@ -1,0 +1,15 @@
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\bin\Debug\net6.0\Flyweight.exe
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\bin\Debug\net6.0\Flyweight.deps.json
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\bin\Debug\net6.0\Flyweight.runtimeconfig.json
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\bin\Debug\net6.0\Flyweight.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\bin\Debug\net6.0\Flyweight.pdb
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.csproj.AssemblyReference.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfoInputs.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.AssemblyInfo.cs
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\refint\Flyweight.dll
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.pdb
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\Flyweight.genruntimeconfig.cache
+E:\2023\MyGit\DesignPattern\Design Patterns\Flyweight\obj\Debug\net6.0\ref\Flyweight.dll

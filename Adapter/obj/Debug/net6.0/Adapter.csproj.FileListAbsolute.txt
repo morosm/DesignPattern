@@ -1,0 +1,15 @@
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\bin\Debug\net6.0\Adapter.exe
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\bin\Debug\net6.0\Adapter.deps.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\bin\Debug\net6.0\Adapter.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\bin\Debug\net6.0\Adapter.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Adapter\obj\Debug\net6.0\ref\Adapter.dll

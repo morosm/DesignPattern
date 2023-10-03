@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "5e5/F4Fd8b+svlY2pDX+/wHH18+nd3330aWspBRyNKoBzKj3iVT3VvgfzX0OhbXTlWbSEL4962lBhdszex4R2w==",
+  "success": true,
+  "projectFilePath": "E:\\2023\\MyGit\\DesignPattern\\AbstractFactory\\Abstract Factory.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "正在通过 “HTTP” 源“http://gitlab.roboticplus.com:2023/v3/index.json”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+    }
+  ]
+}

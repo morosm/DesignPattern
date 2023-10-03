@@ -1,0 +1,8 @@
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\bin\Debug\Interpreter Pattern2.exe.config
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\bin\Debug\Interpreter Pattern2.exe
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\bin\Debug\Interpreter Pattern2.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\obj\Debug\Interpreter Pattern2.csproj.AssemblyReference.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\obj\Debug\Interpreter Pattern2.csproj.SuggestedBindingRedirects.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\obj\Debug\Interpreter Pattern2.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\obj\Debug\Interpreter Pattern2.exe
+E:\2023\MyGit\TestProject\Interpreter Pattern\Interpreter Pattern2\Interpreter Pattern2\obj\Debug\Interpreter Pattern2.pdb

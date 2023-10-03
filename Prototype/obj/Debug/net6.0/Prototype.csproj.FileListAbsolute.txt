@@ -1,0 +1,15 @@
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\bin\Debug\net6.0\Prototype.exe
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\bin\Debug\net6.0\Prototype.deps.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\bin\Debug\net6.0\Prototype.runtimeconfig.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\bin\Debug\net6.0\Prototype.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\bin\Debug\net6.0\Prototype.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.csproj.AssemblyReference.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfoInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.AssemblyInfo.cs
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\refint\Prototype.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Prototype\obj\Debug\net6.0\ref\Prototype.dll

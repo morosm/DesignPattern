@@ -1,0 +1,15 @@
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\bin\Debug\net6.0\Visitor Pattern.exe
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\bin\Debug\net6.0\Visitor Pattern.deps.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\bin\Debug\net6.0\Visitor Pattern.runtimeconfig.json
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\bin\Debug\net6.0\Visitor Pattern.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\bin\Debug\net6.0\Visitor Pattern.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.csproj.AssemblyReference.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.AssemblyInfoInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.AssemblyInfo.cs
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.csproj.CoreCompileInputs.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\refint\Visitor Pattern.dll
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.pdb
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\Visitor Pattern.genruntimeconfig.cache
+E:\2023\MyGit\TestProject\Interpreter Pattern\Visitor Pattern\Visitor Pattern\obj\Debug\net6.0\ref\Visitor Pattern.dll
